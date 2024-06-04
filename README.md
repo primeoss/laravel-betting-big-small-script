@@ -4,6 +4,8 @@
 
 This Laravel betting website supports trading patterns such as Big, Small, Single, and Double. Users can place trades on any of these options. If they win, they receive a 195% profit, and if they lose, they lose 100% of the bet amount. The platform includes both automated and manual options to manipulate the PD number outcomes, share signals on Telegram 24/7, and provides administrative controls to restrict users from placing bets on specific PD numbers.
 
+![Laravel Betting Script - Big Small Single Double](https://i.ibb.co/LrNxmys/laravel-betting-script.jpg)
+
 ## Key Features
 
 - **Written in Laravel/PHP 8.1+**
