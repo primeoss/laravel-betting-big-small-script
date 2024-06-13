@@ -27,3 +27,4 @@ For purchase and more information, please contact:
 
 - **Email:** [prime@oss.one](mailto:prime@oss.one)
 - **Telegram:** [@primeoss](https://t.me/primeoss)
+- **Discord:** primeoss
