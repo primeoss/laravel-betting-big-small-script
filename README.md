@@ -25,6 +25,5 @@ This script encompasses all the essential features needed to operate a betting w
 
 For purchase and more information, please contact:
 
-- **Email:** [prime@oss.one](mailto:prime@oss.one)
-- **Telegram:** [@primeoss](https://t.me/primeoss)
-- **Discord:** primeoss
+- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
