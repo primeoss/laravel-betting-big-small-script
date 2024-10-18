@@ -25,5 +25,5 @@ This script encompasses all the essential features needed to operate a betting w
 
 For purchase and more information, please contact:
 
-- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Telegram**: [solanaapis](https://t.me/solanaapis)
 - **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
